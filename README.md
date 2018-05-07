@@ -9,7 +9,7 @@ Parameter   | Value                                |
 
 On | Off |
 :--- | :---
-![Usage](https://github.com/Xorfor/Domoticz-Countdown/blob/master/images/Knipsel.PNG) | ![Usage](https://github.com/Xorfor/Domoticz-Countdown/blob/master/images/Knipsel.PNG) |
+![On](https://github.com/Xorfor/Domoticz-Countdown/blob/master/images/Countdown_on.PNG) | ![Off](https://github.com/Xorfor/Domoticz-Countdown/blob/master/images/Countdown.PNG) |
 
 ## Description
 This plugin will start with the specified minutes and countdown. As soon as this plugin passed the count down/wait time, it will switch Off. This status change from On to Off can be used for events. 
