@@ -19,3 +19,4 @@ You can reset the plugin by sending the 'On' command, or click on the switch.
 ## Usage
 Eg. you want to switch off the lights if no motion is detected in 3 minutes.
 ![Usage](https://github.com/Xorfor/Domoticz-Countdown/blob/master/images/Knipsel.PNG)
+As soon as motion is detected, the Countdown plugin is switched to On, the counter will be switched on/restarted.
