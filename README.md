@@ -17,5 +17,5 @@ This plugin will start with the specified minutes and countdown. As soon as this
 You can reset the plugin by sending the 'On' command, or click on the switch.
 
 ## Usage
-Eg. you want to switch off the lights if no motion is detected in 15 minutes. See next example.
+Eg. you want to switch off the lights if no motion is detected in 3 minutes.
 ![Usage](https://github.com/Xorfor/Domoticz-Countdown/blob/master/images/Knipsel.PNG)
