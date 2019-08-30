@@ -62,7 +62,7 @@ class BasePlugin:
             "onCommand called for Unit " + str(Unit) + ": Parameter '" + str(Command) + "', Level: " + str(Level))
         if str(Command) == "On":
             self.__runAgain = self._minutes * self.__HEARTBEATS2MIN
-            UpdateDevice(self.__UNIT_TEXT, 1, "On", AlwaysUpdate=True)
+            UpdateDevice(self.__UNIT_TEXT, 1, "On")
 
     def onNotification(self, Name, Subject, Text, Status, Priority, Sound, ImageFile):
         Domoticz.Debug("Notification: " + Name + "," + Subject + "," + Text + "," + Status + "," + str(
